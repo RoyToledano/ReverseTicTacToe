@@ -65,3 +65,6 @@ If you choose to continue playing, clicking on ```Yes``` will reset the board fo
   <img src="https://github.com/RoyToledano/ReverseTicTacToe/assets/102805117/ae9f30b1-c59e-4803-b0c0-c437b0b00c79" width="250">
   <img src="https://github.com/RoyToledano/ReverseTicTacToe/assets/102805117/a1b494f2-578a-438e-8655-69dde8080606" width="246.5">
 </p>
+
+### Release
+In the release window located on the right-hand side, you will find the option to download the final executable file of the game, as well as the accompanying source code. 
