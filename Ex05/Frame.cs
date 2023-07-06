@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace ReversTicTacToe
+namespace ReverseTicTacToe
 {
     public class Frame
     {

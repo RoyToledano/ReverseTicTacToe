@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ReversTicTacToe
+namespace ReverseTicTacToe
 {
     public class Player
     {

@@ -3,7 +3,7 @@ using System.Net.Mime;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace ReversTicTacToe
+namespace ReverseTicTacToe
 {
     public class Program
     {

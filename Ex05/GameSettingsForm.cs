@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace ReversTicTacToe
+namespace ReverseTicTacToe
 {
     public class GameSettingsForm : Form
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace ReversTicTacToe
+namespace ReverseTicTacToe
 {
     public class GamePlayForm : Form
     {
